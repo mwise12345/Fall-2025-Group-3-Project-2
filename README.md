@@ -7,10 +7,10 @@ MIST 4610 Dr. Sri Fall 2025 Group 3 Section 2
 62775 Group 3
 
 ## Team Members
-1. Matthew Wise [@mwise12345]
-2. Ghasan Awad [@awadg420]
-3. Trisha Kattoju [@tkattoju]
-4. Marissa Le [@MarissaLe]
+1. Matthew Wise [@mwise12345](https://github.com/mwise12345/Fall-2025-Group-3-Project-2)
+2. Ghasan Awad [@awadg420](https://github.com/awadg420/Fall-2025-Group-3-Project-2)
+3. Trisha Kattoju [@tkattoju](https://github.com/tkattoju/Fall-2025-Group-3-Project-2)
+4. Marissa Le [@MarissaLe](https://github.com/MarissaLe/Fall-2025-Group-3-Project-2)
 
 # Data Description
 
