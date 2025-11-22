@@ -22,9 +22,9 @@ How do deaths and age-adjusted death rates vary across U.S. states, and which st
 
 This is an important question because it digs deeper into the public health inequality and risk factors across the U.S and it also narrows down the states with the highest and lowest age-adjusted deaths. By comparing the death rates of the highest and lowest over time we can see how the states are either improving or worsening. Comparing data for 1999, 2005, 2011, and 2017 enables us to see long-term progress or decline. This question also goes into the economical impact that might be required after analyzing this data. We visualized this in Tableau with a map to see the highest and lowest rates that could assist policymakers decide cost-effective interventions and effective health policies. 
 
-<img width="626" height="390" alt="image" src="https://github.com/user-attachments/assets/c03d54e9-3e10-42fa-8fd0-49d0daffe4b5" />
+<img width="2442" height="1360" alt="image" src="https://github.com/user-attachments/assets/0a299cdc-20e1-4987-bbee-767545e23c8a" />
 
-<img width="2442" height="1360" alt="image" src="https://github.com/user-attachments/assets/024981a2-1974-4633-a815-5a6a6eb02640" />
+<img width="2442" height="1360" alt="image" src="https://github.com/user-attachments/assets/da3e0af3-f487-4e19-b347-b91b3716477e" />
 
 ## Data Manipulation
 
