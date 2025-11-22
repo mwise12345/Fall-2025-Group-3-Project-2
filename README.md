@@ -24,7 +24,7 @@ This is an important question because it digs deeper into the public health ineq
 
 <img width="626" height="390" alt="image" src="https://github.com/user-attachments/assets/c03d54e9-3e10-42fa-8fd0-49d0daffe4b5" />
 
-<img width="623" height="384" alt="image" src="https://github.com/user-attachments/assets/2b30099f-a248-4b73-8f53-b552a3e5c68e" />
+<img width="2442" height="1360" alt="image" src="https://github.com/user-attachments/assets/024981a2-1974-4633-a815-5a6a6eb02640" />
 
 ## Data Manipulation
 
